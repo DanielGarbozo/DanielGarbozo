@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://github.com/DanielGarbozo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Daniel%20Garbozo%2C%20Bioinformatics%20Researcher%20%7C%20Multi-Omics" alt="Daniel Garbozo" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=538&text=Daniel%20Garbozo" alt="Daniel Garbozo" />
   </a>
-</p>
-
+</p>      
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=e3b341&center=true&vCenter=true&width=900&height=44&lines=Building%20reproducible%20pipelines%20for%20RNA-seq%2C%20ChIP-seq%20%26%20Hi-C%20analysis;Exploring%20foundation%20models%20for%20genomics%20%26%20precision%20medicine" alt="Typing headlines" />
 </p>
