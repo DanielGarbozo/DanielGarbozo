@@ -53,10 +53,10 @@
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=DanielGarbozo&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-### 💭 Dev Quote
+### 💭 Dev
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.%20%E2%80%94%20Steve%20Jobs" alt="Dev quote" />
 </p>
 
 ---
