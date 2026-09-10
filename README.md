@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DanielGarbozo">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Daniel%20Garbozo%2C%20Bioinformatics%20Researcher%20%7C%20Multi-Omics" alt="Daniel Garbozo, Bioinformatics Researcher | Multi-Omics" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Daniel%20Garbozo%2C%20Bioinformatics%20Researcher%20%7C%20Multi-Omics" alt="Daniel Garbozo" />
   </a>
 </p>
 
